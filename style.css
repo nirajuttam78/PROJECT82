@@ -1,0 +1,37 @@
+.body_backgorund {
+	margin-top: 50px;
+	background-image: url("bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+body {
+	cursor: pointer;
+}
+
+h1 {
+	color: purple;
+	font-size: 40px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#myCanvas {
+	border-width: 5px;
+	background-color:aliceblue;
+	border-style: ridge;
+	border-color: darkslateblue;
+}
+
+button {
+	background-color: #4CAF50;
+	border: none;
+	color: white;
+	padding: 10px 42px;
+	font-size: 16px;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+input {
+	margin-right: 20px;
+}
